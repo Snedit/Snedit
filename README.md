@@ -2,7 +2,7 @@
 
 # 💫 Hi, I'm Soham 👋
 
- 🔭 I'm an engineer, innovator, coder and a cat dad 🐱</br> 🌱 Currently exploring and learning domains of web dev, WEB3, AI and DevOps </br> 🎓 CSE 26'</br> 🌼 Technology is limitless, and so is knowledge. </br>
+ 🔭 I'm an engineer, innovator, coder and a cat dad 🐱</br> 🌱 Currently exploring and learning domains of web dev, AI and DevOps </br> 🎓 CSE 26'</br> 🌼 Technology is limitless, and so is knowledge. </br>
 
 
 # 💻 Tech Stack:
